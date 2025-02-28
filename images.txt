@@ -7,3 +7,4 @@ xhofe/alist:latest
 rustdesk/rustdesk-server
 syncthing/syncthing
 goodieshq/headscale-admin:latest
+ghcr.io/yangchuansheng/ip_derper
