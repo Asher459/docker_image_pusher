@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 rustdesk/rustdesk-server
 syncthing/syncthing
+goodieshq/headscale-admin:latest
